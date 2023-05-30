@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo">Погода у вашому місті</string>
+    <string name="hint_user_field">Введіть назву міста</string>
+    <string name="main_btn">Дізнатись погоду</string>
+    <string name="no_user_input">Введіть текст</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
